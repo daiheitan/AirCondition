@@ -1,0 +1,1 @@
+Show PM2.5 as an icon on the toolbar. Works for both Firefox and Chrome
