@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Air Condition",
+  "description": "An add-on indicating current air condition for you.",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}

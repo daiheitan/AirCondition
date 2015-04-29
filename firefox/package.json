@@ -1,0 +1,10 @@
+{
+  "name": "aircondition",
+  "title": "Air Condition",
+  "id": "jid1-ibFoyRwZhvHcPg",
+  "description": "An add-on indicating current air condition for you.",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "icon": "data/1_64.png"
+}
